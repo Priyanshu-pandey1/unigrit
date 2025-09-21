@@ -22,7 +22,7 @@ UniGrit is a data-driven platform designed to tackle one of the most critical ch
 * **Detailed Student Profiles:** Teachers can view a student's performance trends, attendance history, and specific risk factors in a dedicated modal.
 * **Dynamic Filtering & Search:** Easily filter the student list by academic stream, risk level, or name to quickly find students who need attention.
 * **Student-Centric Dashboard:** A personalized view for students to monitor their own progress, academic standing, and receive timely feedback.
-* **"Mitra" - AI Counselor Chatbot:** An integrated assistant powered by the Google Gemini API to provide students with instant, supportive counseling and academic guidance 24/7.
+* **"Gritty" - AI Counselor Chatbot:** An integrated assistant powered by the Google Gemini API to provide students with instant, supportive counseling and academic guidance 24/7.
 
 ## 🛠️ Built With
 
