@@ -53,5 +53,5 @@ This project is a solution for the following problem statement:
 This project was proudly developed by **Team UniGrit**.
 
 * **Priyanshu Pandey**
-    * GitHub: ``
-    * LinkedIn: ``
+    * GitHub: `https://github.com/Priyanshu-pandey1`
+    * LinkedIn: `https://www.linkedin.com/in/priyanshu-pandey-17b2b6329/`
