@@ -220,7 +220,7 @@
                 <div class="flex items-center">
                     <div class="flex-shrink-0 flex items-center gap-2">
                         <i class="ph-student text-3xl text-blue-600"></i>
-                        <span class="font-bold text-xl text-slate-800">Insightify</span>
+                        <span class="font-bold text-xl text-slate-800">UniGrit</span>
                     </div>
                     <div class="hidden md:block">
                         <div class="ml-10 flex items-baseline space-x-4">
@@ -273,7 +273,7 @@
                     Unlock Student Potential, <span class="text-blue-600">Predict Success.</span>
                 </h1>
                 <p class="mt-6 max-w-3xl mx-auto text-lg text-slate-600">
-                    Insightify is an AI-powered early warning system that helps educators identify at-risk students before it's too late. By consolidating data and providing clear, actionable insights, we empower mentors to intervene effectively and foster student success.
+                    UniGrit is an AI-powered early warning system that helps educators identify at-risk students before it's too late. By consolidating data and providing clear, actionable insights, we empower mentors to intervene effectively and foster student success.
                 </p>
                 <div class="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
                     <a href="#" id="dashboardActionBtn" class="w-full sm:w-auto bg-blue-600 text-white px-8 py-3 rounded-lg text-lg font-semibold hover:bg-blue-700 transition-colors">Go to Dashboard</a>
@@ -289,7 +289,7 @@
                 <aside id="dashboardSidebar" class="w-64 bg-white border-r border-slate-200 flex flex-col fixed inset-y-0 left-0 z-50 transform -translate-x-full transition-transform duration-300 ease-in-out lg:relative lg:translate-x-0">
                     <div class="h-16 flex items-center justify-center border-b border-slate-200 px-4">
                         <i class="ph-student text-3xl text-blue-600"></i>
-                        <span class="font-bold text-xl text-slate-800 ml-2">Insightify</span>
+                        <span class="font-bold text-xl text-slate-800 ml-2">UniGrit</span>
                     </div>
                     <nav class="flex-1 px-4 py-6 space-y-2">
                         <a href="#" data-page="teacherDashboardPage" class="nav-link flex items-center gap-3 px-4 py-2.5 rounded-lg text-slate-700 bg-blue-50 text-blue-600 font-semibold">
@@ -488,7 +488,7 @@
             </button>
             <form id="headerFeedbackForm">
                 <h1 class="auth-title">Give Feedback</h1>
-                <p class="auth-subtitle">Help us improve the Insightify platform.</p>
+                <p class="auth-subtitle">Help us improve the UniGrit platform.</p>
                 <div class="input-group">
                     <label>Your Rating</label>
                      <div class="star-rating !justify-center">
@@ -519,11 +519,11 @@
 
     <div id="chatbot-panel" class="chatbot-hidden w-[90vw] max-w-sm sm:w-full h-auto max-h-[70vh]">
         <header id="chatbot-header">
-            <h2>Mitrr</h2> <button id="minimize-chatbot-btn"><i class="ph-minus text-xl"></i></button>
+            <h2>Gritty</h2> <button id="minimize-chatbot-btn"><i class="ph-minus text-xl"></i></button>
         </header>
         <div id="chat-messages">
              <div class="bot-message chat-message">
-                 Hi there! I'm Mitrr, your personal AI assistant. How can I help you today?
+                 Hi there! I'm Gritty, your personal AI assistant. How can I help you today?
              </div>
         </div>
         <form id="chat-form">
@@ -1186,7 +1186,7 @@
             async function getChatResponse(prompt) {
                 const apiKey = ""; // Leave empty for automated key injection
                 const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
-                const systemPrompt = "You are Mitrr, a friendly and helpful AI assistant for students and mentors using the Insightify platform. Your goal is to provide supportive and concise answers related to academics, time management, and well-being. Do not answer questions outside of this scope.";
+                const systemPrompt = "You are Mitrr, a friendly and helpful AI assistant for students and mentors using the UniGrit platform. Your goal is to provide supportive and concise answers related to academics, time management, and well-being. Do not answer questions outside of this scope.";
                 try {
                     const response = await fetch(apiUrl, {
                         method: 'POST',
@@ -1208,3 +1208,4 @@
 
 </body>
 </html>
+
