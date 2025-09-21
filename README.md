@@ -5,10 +5,6 @@
 
 A proactive student success platform designed for the **Smart India Hackathon 2025**. UniGrit empowers academic institutions to foster student **grit** and significantly reduce dropout rates through AI-driven early warnings and counseling.
 
----
-
-![UniGrit Teacher Dashboard](https://i.imgur.com/your-screenshot-url.png) 
-
 ## 🚀 Live Demo
 
 The live version of the project is deployed on Vercel and is accessible here:
@@ -53,5 +49,5 @@ This project is a solution for the following problem statement:
 This project was proudly developed by **Team UniGrit**.
 
 * **Priyanshu Pandey**
-    * GitHub: `https://github.com/Priyanshu-pandey1`
-    * LinkedIn: `https://www.linkedin.com/in/priyanshu-pandey-17b2b6329/`
+    * GitHub: **[Priyanshu-pandey1](https://github.com/Priyanshu-pandey1)**
+    * LinkedIn: **[Priyanshu Pandey](https://www.linkedin.com/in/priyanshu-pandey-17b2b6329/)**
